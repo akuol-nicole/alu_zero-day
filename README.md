@@ -1,1 +1,1 @@
-# alu_zero-day
+This project is a collection of shell nagivation features/commands
